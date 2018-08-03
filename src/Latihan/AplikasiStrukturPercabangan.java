@@ -36,19 +36,19 @@ public class AplikasiStrukturPercabangan {
         
     case 1  :{
           
-    System.out.print("Anda masuk ke kelas F 2");
+    System.out.print("Anda masuk ke kelas F");
     break;
     
     }
     
     case 2 :{
-    System.out.print("Anda masuk ke kelas E ");
+    System.out.print("Anda masuk ke kelas E");
     break;
     
     }
     
     case 3 :{
-    System.out.print("Anda masuk ke kelas D ");
+    System.out.print("Anda masuk ke kelas D");
     break;
     
     }
